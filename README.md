@@ -13,15 +13,16 @@
 다국적 인공위성 플랫폼 : 미국>
 1. NASA World view  https://worldview.earthdata.nasa.gov/
 2. NASA Earth data  https://www.earthdata.nasa.gov/
-3. NASA Earth data forum  https://forum.earthdata.nasa.gov/viewforum.php?f=7
-4. NASA Podaac   https://podaac.jpl.nasa.gov/ 
-5. NASA Ocean color  https://oceancolor.gsfc.nasa.gov/
-6. USGS Earth explorer  https://earthexplorer.usgs.gov/
-7. NOAA Coast watch  https://coastwatch.noaa.gov/cwn/index.html
-8. Global fishing watch  https://globalfishingwatch.org/
-9. 38North  https://www.38north.org/
-10. Google earth engine  https://earthengine.google.com/
-11. Example of Google earth engine product  https://ktwins03.users.earthengine.app/view/ham-an-sat-view
+3. NASA Earth Observatory  https://earthobservatory.nasa.gov/
+4. NASA Earth data forum  https://forum.earthdata.nasa.gov/viewforum.php?f=7
+5. NASA Podaac   https://podaac.jpl.nasa.gov/ 
+6. NASA Ocean color  https://oceancolor.gsfc.nasa.gov/
+7. USGS Earth explorer  https://earthexplorer.usgs.gov/
+8. NOAA Coast watch  https://coastwatch.noaa.gov/cwn/index.html
+9. Global fishing watch  https://globalfishingwatch.org/
+10. 38North  https://www.38north.org/
+11. Google earth engine  https://earthengine.google.com/
+12. Example of Google earth engine product  https://ktwins03.users.earthengine.app/view/ham-an-sat-view
 #
 
 다국적 인공위성 플랫폼 : 유럽연합> 
