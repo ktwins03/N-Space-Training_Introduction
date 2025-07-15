@@ -28,8 +28,9 @@
 다국적 인공위성 플랫폼 : 유럽연합> 
 1. ESA Ocean virtual laboratory   https://ovl.oceandatalab.com/
 2. Copernicus Sentinel hub  https://www.sentinel-hub.com/
-3. Copernicus Sentinel hub forum  https://forum.sentinel-hub.com/
-4. Copernicus browser   https://browser.dataspace.copernicus.eu/
-5. Copernicus my ocean  https://marine.copernicus.eu/access-data/myocean-viewer
-6. EUMESAT view  https://view.eumetsat.int/productviewer?v=default
-7. Wekeo  https://wekeo.copernicus.eu/
+3. Copernicus Sentinel hub custom script   https://custom-scripts.sentinel-hub.com/
+4. Copernicus Sentinel hub forum  https://forum.sentinel-hub.com/
+5. Copernicus browser   https://browser.dataspace.copernicus.eu/
+6. Copernicus my ocean  https://marine.copernicus.eu/access-data/myocean-viewer
+7. EUMESAT view  https://view.eumetsat.int/productviewer?v=default
+8. Wekeo  https://wekeo.copernicus.eu/
