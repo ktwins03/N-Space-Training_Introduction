@@ -14,15 +14,16 @@
 1. NASA World view  https://worldview.earthdata.nasa.gov/
 2. NASA Earth data  https://www.earthdata.nasa.gov/
 3. NASA Earth Observatory  https://earthobservatory.nasa.gov/
-4. NASA Earth data forum  https://forum.earthdata.nasa.gov/viewforum.php?f=7
-5. NASA Podaac   https://podaac.jpl.nasa.gov/ 
-6. NASA Ocean color  https://oceancolor.gsfc.nasa.gov/
-7. USGS Earth explorer  https://earthexplorer.usgs.gov/
-8. NOAA Coast watch  https://coastwatch.noaa.gov/cwn/index.html
-9. Global fishing watch  https://globalfishingwatch.org/
-10. 38North  https://www.38north.org/
-11. Google earth engine  https://earthengine.google.com/
-12. Example of Google earth engine product  https://ktwins03.users.earthengine.app/view/ham-an-sat-view
+4. Green Harvest in South Korean Waters(NASA가 한국 김양식장을 소개하다.)    https://earthobservatory.nasa.gov/images/148215/green-harvest-in-south-korean-waters 
+5. NASA Earth data forum  https://forum.earthdata.nasa.gov/viewforum.php?f=7
+6. NASA Podaac   https://podaac.jpl.nasa.gov/ 
+7. NASA Ocean color  https://oceancolor.gsfc.nasa.gov/
+8. USGS Earth explorer  https://earthexplorer.usgs.gov/
+9. NOAA Coast watch  https://coastwatch.noaa.gov/cwn/index.html
+10. Global fishing watch  https://globalfishingwatch.org/
+11. 38North  https://www.38north.org/
+12. Google earth engine  https://earthengine.google.com/
+13. Example of Google earth engine product  https://ktwins03.users.earthengine.app/view/ham-an-sat-view
 #
 
 다국적 인공위성 플랫폼 : 유럽연합> 
@@ -38,7 +39,6 @@
 위성영상 활용예시>
 1. NASA World view 활용예시1(동영상)  https://www.youtube.com/watch?v=c-no5rRqQIg
 2. NASA World view 활용예시2(동영상)  https://www.youtube.com/watch?v=_qBkcHmTMhA
-3. Green Harvest in South Korean Waters(NASA가 한국 김양식장을 소개하다.)    https://earthobservatory.nasa.gov/images/148215/green-harvest-in-south-korean-waters 
 #
 흥미로운 동영상>
 1. Sentinel-3A prepares for liftoff (4K timelapse)   https://www.youtube.com/watch?v=HmOzglI2ol8
