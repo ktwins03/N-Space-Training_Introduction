@@ -38,6 +38,7 @@
 위성영상 활용예시>
 1. NASA World view 활용예시1(동영상)  https://www.youtube.com/watch?v=c-no5rRqQIg
 2. NASA World view 활용예시2(동영상)  https://www.youtube.com/watch?v=_qBkcHmTMhA
+3. Green Harvest in South Korean Waters(NASA가 한국 김양식장을 소개하다.)    https://earthobservatory.nasa.gov/images/148215/green-harvest-in-south-korean-waters 
 #
 흥미로운 동영상>
 1. Sentinel-3A prepares for liftoff (4K timelapse)   https://www.youtube.com/watch?v=HmOzglI2ol8
