@@ -37,8 +37,8 @@
 8. Wekeo  https://wekeo.copernicus.eu/
 #
 위성영상 활용예시 동영상>
-1. NASA World view 활용예시(리비아 홍수(2023.9.11) 1차 분석)  https://www.youtube.com/watch?v=c-no5rRqQIg
-2. NASA World view 활용예시(리비아 홍수(2023.9.11) 2차 분석)  https://www.youtube.com/watch?v=_qBkcHmTMhA
+1. NASA World view 활용예시(리비아 극한강수(2023.9.11) 1차 분석)  https://www.youtube.com/watch?v=c-no5rRqQIg
+2. NASA World view 활용예시(리비아 극한강수(2023.9.11) 2차 분석)  https://www.youtube.com/watch?v=_qBkcHmTMhA
 #
 심우주 관측자료는 어떻게 공개될까?>
 1. NASA solar system trek  https://trek.nasa.gov/#
