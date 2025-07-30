@@ -34,3 +34,5 @@ Wekeo https://wekeo.copernicus.eu/
 
 NASA World view 활용예시(리비아 극한강수(2023.9.11) 1차 분석) https://www.youtube.com/watch?v=c-no5rRqQIg
 NASA World view 활용예시(리비아 극한강수(2023.9.11) 2차 분석) https://www.youtube.com/watch?
+
+참고링크 : https://drive.google.com/file/d/1GN4Qx35eDa1UywpXgyazHLuNWi3nmS0F/view?usp=drive_link
